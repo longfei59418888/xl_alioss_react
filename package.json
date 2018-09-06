@@ -1,6 +1,6 @@
 {
   "name": "xl_alioss_react",
-  "version": "1.0.1",
+  "version": "1.0.5",
   "description": "用于阿里云的oss 上传",
   "main": "index.js",
   "scripts": {
