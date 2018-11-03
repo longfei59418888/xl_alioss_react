@@ -1,0 +1,58 @@
+
+积累
+
+1.reactUI
+github ：https://github.com/longfei59418888/reactUI
+yeoman ：generator-xl-init-react
+介绍 ：react 项目架构，及其部分 ui 组件(其他框架中没有的一些功能组件)。
+
+react npm 组件
+xl_alioss_react/xl_alioss_vue(阿里oss上传的react/vue组件)
+react_iscroll(react 的iscroll封装，上拉下拉加载等)
+xl_react_decorator(react 的通用装饰器,bind/connect等)
+
+npm 公共工具包
+
+xl_canvas
+基于 canvas 的一个画图工具，可以向 canvas 添加图片/文字，并实现了层级。
+在 canvas 上进行图片/文字的选取，平移，旋转，缩放以及变形等操作。
+生产合成后图片并且保存数据源。
+xl_session(localsession管理模块)，
+xl_storage(localstorage管理工具，对不支持做了兼容)，
+xl_cookie(cookie管理模块)，
+xl_extend(工具的一些方法模块)，
+xl_fetch(对fetch封装后模块),
+xl_close_port(关闭端口号工具)
+xl_jsonp(jsonp的封装模块)
+xl_validate(验证模块)
+xl_git(git提交工具，一键提交)
+xl_cdn(腾讯云上传cdn工具，一键上传文件夹和文件)
+xl_mock(给项目搭建mock服务器)
+xl_es_5(将单个代码转为es5代码)
+
+
+
+
+
+
+个人博客
+
+小杏仁app
+小杏仁渠道
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
